@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Riki Hikmianto**.\
+Perkenalkan nama saya **Riki Hikmianto**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riki-hikmianto-904391182/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riki-hikmianto-904391182/) ku ya.
 
 <p align="left">
 <a href="https://github.com/RikiHikmianto">
