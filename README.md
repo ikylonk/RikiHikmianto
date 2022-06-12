@@ -1,9 +1,9 @@
 # Hei🤪
 
-Follow me :
-[Linkedin](https://www.linkedin.com/in/riki-hikmianto-904391182/).
-[Instagram]([https://www.linkedin.com/in/riki-hikmianto-904391182/](https://www.instagram.com/riky_hikz)).
-[Twitter]([https://www.linkedin.com/in/riki-hikmianto-904391182/](https://twitter.com/riky_hikz)).
+Follow me :</br>
+[Linkedin](https://www.linkedin.com/in/riki-hikmianto-904391182/).</br>
+[Instagram]([https://www.linkedin.com/in/riki-hikmianto-904391182/](https://www.instagram.com/riky_hikz)).</br>
+[Twitter]([https://www.linkedin.com/in/riki-hikmianto-904391182/](https://twitter.com/riky_hikz)).</br>
 
 <p align="left">
 <a href="https://github.com/RikiHikmianto">
